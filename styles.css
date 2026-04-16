@@ -1,0 +1,55 @@
+/* Body and Main Content Styling */
+body {
+    background-color: #f3ecff; /* Main page background */
+    color: #000000; /* Text on the main background */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Header, Navigation, Footer Styling */
+.custom-bg-primary {
+    background-color: #222975 !important;
+    color: #f3ecff !important; /* Text on header, footer, nav */
+}
+
+/* Override text color inside custom-bg-primary elements to ensure it matches the #f3ecff requirement */
+.custom-bg-primary h1,
+.custom-bg-primary p {
+    color: #f3ecff !important;
+}
+
+/* Link Styling */
+/* Default unvisited links */
+a, a.custom-link {
+    color: #00c898;
+    text-decoration: none;
+}
+
+a:hover, a.custom-link:hover {
+    color: #009c77; /* Slightly darker on hover for accessibility, optional but good practice */
+    text-decoration: underline;
+}
+
+/* Visited links */
+a:visited, a.custom-link:visited {
+    color: #615a8c;
+}
+
+/* Specific fix for Navbar Links to ensure they use the specific color instead of Bootstrap defaults */
+.navbar-dark .navbar-nav .nav-link {
+    color: #00c898 !important; /* Unvisited link color in nav */
+}
+
+.navbar-dark .navbar-nav .nav-link:visited {
+    color: #615a8c !important; /* Visited link color in nav */
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #f3ecff !important; /* Hover effect in nav, optionally using the light color */
+}
+
+/* For the visited link example in HTML */
+.visited-link-example {
+    color: #615a8c !important;
+}
