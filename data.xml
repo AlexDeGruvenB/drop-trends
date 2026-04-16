@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trends>
+    <item>
+        <title>Trending Summer Wear</title>
+        <category>Clothing</category>
+        <popularity>High</popularity>
+    </item>
+    <item>
+        <title>Smart Home Gadgets</title>
+        <category>Electronics</category>
+        <popularity>Very High</popularity>
+    </item>
+    <item>
+        <title>Eco-friendly Water Bottles</title>
+        <category>Accessories</category>
+        <popularity>Medium</popularity>
+    </item>
+</trends>
