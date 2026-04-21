@@ -1,18 +1,63 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" ?>
 <trends>
     <item>
-        <title>Trending Summer Wear</title>
-        <category>Clothing</category>
-        <popularity>High</popularity>
+        <title>Mushroom Lamp</title>
+        <interest>38</interest>
+        <price>$25.00</price>
+        <link>https://www.aliexpress.com/w/wholesale-mushroom-table-lamp.html</link>
     </item>
     <item>
-        <title>Smart Home Gadgets</title>
-        <category>Electronics</category>
-        <popularity>Very High</popularity>
+        <title>Cloud Lamp</title>
+        <interest>19</interest>
+        <price>$30.00</price>
+        <link>https://www.aliexpress.com/w/wholesale-cloud-lamp.html</link>
     </item>
     <item>
-        <title>Eco-friendly Water Bottles</title>
-        <category>Accessories</category>
-        <popularity>Medium</popularity>
+        <title>Pendant Lamp</title>
+        <interest>22</interest>
+        <price>$45.00</price>
+        <link>https://www.aliexpress.com/w/wholesale-pendant-lamp.html</link>
+    </item>
+    <item>
+        <title>Jelly Blush</title>
+        <interest>58</interest>
+        <price>$15.00</price>
+        <link>https://www.aliexpress.com/item/1005008632369708.html</link>
+    </item>
+    <item>
+        <title>Chunky Belt</title>
+        <interest>26</interest>
+        <price>$22.00</price>
+        <link>https://www.aliexpress.com/s/wiki-ssr/article/chunky-studded-belt</link>
+    </item>
+    <item>
+        <title>Bug Jewelry</title>
+        <interest>43</interest>
+        <price>$18.00</price>
+        <link>https://www.aliexpress.com/w/wholesale-insect-jewelry.html</link>
+    </item>
+    <item>
+        <title>Cute Stamps</title>
+        <interest>15</interest>
+        <price>$12.00</price>
+        <link>https://www.aliexpress.com/s/wiki-ssr/article/cute-ink-stamp</link>
+    </item>
+    <item>
+        <title>Lace Belt</title>
+        <interest>17</interest>
+        <price>$20.00</price>
+        <link>https://www.aliexpress.com/item/1005010319780730.html</link>
+    </item>
+    <item>
+        <title>Gold Cuff</title>
+        <interest>28</interest>
+        <price>$35.00</price>
+        <link>https://www.aliexpress.com/w/wholesale-bracelet-cuff-gold.html</link>
+    </item>
+    <item>
+        <title>Leather Banquette</title>
+        <interest>17</interest>
+        <price>$150.00</price>
+        <link>https://www.aliexpress.com/item/3256808972454460.html</link>
     </item>
 </trends>
